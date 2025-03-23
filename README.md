@@ -8,7 +8,7 @@ This project aims to detect fraudulent credit card transactions using machine le
 
 ├── creadit_card_fraud.py      # Python script for model training
 ├── credit_fraud_model.pkl  # Trained machine learning model
-├── report.pdf              # Project report
+├── Prediction-of-Credit-Card-Fraud-Report.pdf              # Project report
 ├── README.md               # Documentation
 ```
 
