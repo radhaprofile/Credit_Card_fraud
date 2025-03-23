@@ -15,7 +15,7 @@ This project aims to detect fraudulent credit card transactions using machine le
 ## Installation & Setup
 ### 1. Clone the Repository
 ```
-git clone <repository_link>
+git clone https://github.com/radhaprofile/Credit_Card_fraud.git
 cd Credit_Card_fraud
 ```
 
