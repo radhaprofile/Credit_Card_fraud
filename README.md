@@ -5,10 +5,11 @@ This project aims to detect fraudulent credit card transactions using machine le
 
 ## Folder Structure
 ```
+├── creditcard.csv            # https://kh3-ls-storage.s3.us-east-1.amazonaws.com/DS Project Guide Data Set/creditcard.csv
 
-├── creadit_card_fraud.py      # Python script for model training
-├── credit_fraud_model.pkl  # Trained machine learning model
-├── Prediction-of-Credit-Card-Fraud-Report.pdf              # Project report
+├── credit_card_fraud_detection.py      # Python script for model training
+├── fraud_detection_best_model.pkl  # Trained machine learning model
+├── report.pdf              # Project report
 ├── README.md               # Documentation
 ```
 
@@ -27,11 +28,11 @@ pip install -r requirements.txt
 
 ### 3. Run the Model Training Script
 ```
-python creadit_card_fraud.py
+python credit_card_fraud_detection.py
 ```
 
 ## Model Details
-- **Algorithm Used:** Random Forest Classifier
+- **Algorithms Used:** Random Forest Classifier
 - **Handling Imbalanced Data:** SMOTE (Synthetic Minority Over-sampling Technique)
 - **Performance Metrics:** Accuracy, Precision, Recall, Confusion Matrix
 - **Final Model Accuracy:** >75%
