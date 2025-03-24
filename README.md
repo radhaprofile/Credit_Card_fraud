@@ -8,7 +8,7 @@ This project aims to detect fraudulent credit card transactions using machine le
 ├── creditcard.csv            # https://kh3-ls-storage.s3.us-east-1.amazonaws.com/DS Project Guide Data Set/creditcard.csv
 
 ├── credit_card_fraud_detection.py      # Python script for model training
-├── fraud_detection_best_model.pkl  # Trained machine learning model
+├── fraud_detection_model.pkl  # Trained machine learning model
 ├── report.pdf              # Project report
 ├── README.md               # Documentation
 ```
