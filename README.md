@@ -32,7 +32,7 @@ python credit_card_fraud_detection.py
 ```
 
 ## Model Details
-- **Algorithms Used:** Random Forest Classifier
+- **Algorithms Used:** Logistic Regression , Decision Tree, Random Forest , XGBoost
 - **Handling Imbalanced Data:** SMOTE (Synthetic Minority Over-sampling Technique)
 - **Performance Metrics:** Accuracy, Precision, Recall, Confusion Matrix
 - **Final Model Accuracy:** >75%
